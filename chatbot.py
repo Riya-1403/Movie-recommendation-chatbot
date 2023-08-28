@@ -13,7 +13,7 @@ import random
 
  # Assuming test10 contains your recommendation logic
 
-bot = telebot.TeleBot('6512147049:AAESCJzL2NByQ5FvvCSGgfVTUcpUbxKKAiM')
+bot = telebot.TeleBot('6571273120:AAG-7ChjEehhcEIixxISA6HeMjb4T3mLnGU')
 
 
 facts = [
